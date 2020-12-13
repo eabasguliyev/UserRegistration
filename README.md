@@ -1,6 +1,6 @@
 # UserRegistration
  
- + Options
+ + Options:
  
  + Login
  + Register
