@@ -278,7 +278,7 @@ public:
 
 	bool sendConfirmCode(std::string user_mail)
 	{
-		if (true)
+		if (true) // burada mail validation ola biler.
 		{
 			size_t random_code = rand() * rand();
 			char* code = new char[20];
